@@ -27,7 +27,7 @@
         }
         .login-button {
             background-color: yellowgreen;
-            color: #fff;
+            color: blue;
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
@@ -37,7 +37,7 @@
             cursor: pointer;
         }
         .footer {
-            background-color: #f8f9fa;
+            background-color:rgba(red, green, blue, alpha);
             padding: 20px 0;
             text-align: center;
             position: fixed;
